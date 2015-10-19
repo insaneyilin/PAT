@@ -15,7 +15,7 @@ int main()
     int n;  // 每一项的阶数
     double coeff;  // 每一项的系数
 
-    // 输出第一个多项式
+    // 输入第一个多项式
     cin >> k;
     while (k--)
     {
